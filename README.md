@@ -2,21 +2,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=The+DEV+Side;Where+Ideas+Go+Live." alt="The DEV Side" />
 
-<br />
+<br/>
 
 ### A modern, scalable Academic ERP platform built for smarter campus management.
 
-<br />
+<br/>
 
-[![License](https://img.shields.io/badge/License-MIT-2563EB?style=for-the-badge\&logo=opensourceinitiative\&logoColor=white)](LICENSE)
-[![Architecture](https://img.shields.io/badge/Architecture-Modular%20Monolith-0EA5E9?style=for-the-badge)](#architecture)
-[![Modules](https://img.shields.io/badge/Modules-24-1D4ED8?style=for-the-badge)](#modules)
+[![License](https://img.shields.io/badge/License-MIT-2563EB?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Architecture](https://img.shields.io/badge/Architecture-Modular%20Monolith-0EA5E9?style=for-the-badge)](#-architecture)
+[![Modules](https://img.shields.io/badge/Modules-24-1D4ED8?style=for-the-badge)](#-modules)
 
-<br />
+<br/>
 
-<a href="#getting-started">Get Started</a>
- ·  <a href="#modules">Explore Modules</a>
- ·  <a href="#architecture">Architecture</a>
+<a href="#-getting-started"><strong>Get Started</strong></a>
+&nbsp;·&nbsp;
+<a href="#-modules"><strong>Explore Modules</strong></a>
+&nbsp;·&nbsp;
+<a href="#-architecture"><strong>Architecture</strong></a>
+&nbsp;·&nbsp;
+<a href="#-project-kpis"><strong>KPIs</strong></a>
 
 </div>
 
@@ -32,23 +36,102 @@ Built by **Cache Me If You Can**, the platform brings together essential academi
 
 ---
 
+## 📊 Project KPIs
+
+<div align="center">
+
+### Platform Highlights
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **🧩 24** | **🏗️ Modular** | **🔐 Secure** | **📈 Scalable** |
+| **Integrated Modules** | **Monolith Architecture** | **RBAC + Audit Trails** | **Designed to Grow** |
+| Full campus coverage across academic, ops, finance & governance | Logically separated domains with shared core | Role-based access & complete action logging | Ready for multi-institution growth |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Module Domains — Click any card to explore
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="#-academic-management">
+        <img src="https://img.shields.io/badge/🎓-Academic-2563EB?style=for-the-badge&labelColor=1E40AF" alt="Academic"/>
+        <br/><br/>
+        <strong style="font-size: 28px;">7</strong><br/>
+        <strong>Modules</strong>
+        <br/><br/>
+        <sub>Students · Staff · Classes<br/>Subjects · Attendance<br/>Exams · Homework</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="#-campus-operations">
+        <img src="https://img.shields.io/badge/💼-Operations-0EA5E9?style=for-the-badge&labelColor=0369A1" alt="Operations"/>
+        <br/><br/>
+        <strong style="font-size: 28px;">5</strong><br/>
+        <strong>Modules</strong>
+        <br/><br/>
+        <sub>Fees · Timetable<br/>Hostel & Transport<br/>Library · Inventory</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="#-communication--engagement">
+        <img src="https://img.shields.io/badge/🌐-Engagement-8B5CF6?style=for-the-badge&labelColor=6D28D9" alt="Engagement"/>
+        <br/><br/>
+        <strong style="font-size: 28px;">6</strong><br/>
+        <strong>Modules</strong>
+        <br/><br/>
+        <sub>Communication · Alumni<br/>Events · Extracurriculars<br/>Clubs · PTA</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="#-administration--governance">
+        <img src="https://img.shields.io/badge/🛡️-Governance-10B981?style=for-the-badge&labelColor=047857" alt="Governance"/>
+        <br/><br/>
+        <strong style="font-size: 28px;">6</strong><br/>
+        <strong>Modules</strong>
+        <br/><br/>
+        <sub>RBAC · Grievance<br/>Admissions · Discipline<br/>Analytics · Audit</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>💡 Hover over any domain card above — it becomes interactive and links directly to that module group.</sub>
+</div>
+
+---
+
 ## 🚀 Why The DEV Side?
 
-|               ⚡ Fast                         |              🔐 Secure                       |             📈 Scalable                      |
-| :--------------------------------: | :--------------------------------: | :--------------------------------: |
+<div align="center">
+
+| ⚡ Fast | 🔐 Secure | 📈 Scalable |
+|:------:|:---------:|:----------:|
 | Built for modern campus operations | Role-based access and audit trails | Designed to grow with institutions |
 
-<br />
+</div>
+
+<br/>
 
 The platform eliminates fragmented workflows by providing a centralized system for:
 
-* 🎓 Academic Management
-* 👨‍🏫 Faculty & Staff Management
-* 💳 Finance & Payments
-* 📅 Scheduling & Timetables
-* 📢 Campus Communication
-* 📊 Institutional Analytics
-* 🔐 Security & Audit Logging
+- 🎓 **Academic Management**
+- 👨‍🏫 **Faculty & Staff Management**
+- 💳 **Finance & Payments**
+- 📅 **Scheduling & Timetables**
+- 📢 **Campus Communication**
+- 📊 **Institutional Analytics**
+- 🔐 **Security & Audit Logging**
 
 ---
 
@@ -59,7 +142,7 @@ The DEV Side consists of **24 integrated modules** designed to support the compl
 ## 🎓 Academic Management
 
 | Module                     | Description                                                      |
-| -------------------------- | ---------------------------------------------------------------- |
+|----------------------------|------------------------------------------------------------------|
 | **Student Management**     | Centralizes student profiles, records, and academic information. |
 | **Staff Management**       | Manages faculty profiles, workloads, and department assignments. |
 | **Class Management**       | Handles class divisions, rosters, and student promotions.        |
@@ -73,7 +156,7 @@ The DEV Side consists of **24 integrated modules** designed to support the compl
 ## 💼 Campus Operations
 
 | Module                   | Description                                                      |
-| ------------------------ | ---------------------------------------------------------------- |
+|--------------------------|------------------------------------------------------------------|
 | **Fee & Finance**        | Billing, payments, receipts, and financial tracking.             |
 | **Timetable Management** | Conflict-free schedules for instructors and classrooms.          |
 | **Hostel & Transport**   | Manages dormitories, transportation, and routes.                 |
@@ -85,7 +168,7 @@ The DEV Side consists of **24 integrated modules** designed to support the compl
 ## 🌐 Communication & Engagement
 
 | Module                    | Description                                             |
-| ------------------------- | ------------------------------------------------------- |
+|---------------------------|---------------------------------------------------------|
 | **Communication Channel** | Announcements, direct messaging, and broadcasts.        |
 | **Alumni Management**     | Graduate directories and alumni engagement.             |
 | **Event Management**      | Event planning, registrations, budgets, and venues.     |
@@ -98,7 +181,7 @@ The DEV Side consists of **24 integrated modules** designed to support the compl
 ## 🛡️ Administration & Governance
 
 | Module                        | Description                                            |
-| ----------------------------- | ------------------------------------------------------ |
+|-------------------------------|--------------------------------------------------------|
 | **Role-Based Access Control** | Granular permissions for different user roles.         |
 | **Grievance & Complaints**    | Confidential issue reporting and resolution workflows. |
 | **Online Admissions**         | Application intake and document verification.          |
@@ -112,55 +195,51 @@ The DEV Side consists of **24 integrated modules** designed to support the compl
 
 The DEV Side follows a **Modular Monolith Architecture**.
 
-```text id="n3f3pg"
-                    ┌─────────────────────┐
-                    │    THE DEV SIDE     │
-                    │    Academic ERP     │
-                    └──────────┬──────────┘
-                               │
-         ┌─────────────────────┼─────────────────────┐
-         │                     │                     │
-    Academic               Operations            Governance
-     Modules                Modules              & Security
-         │                     │                     │
-         └─────────────────────┼─────────────────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │     Application     │
-                    │       Core          │
-                    └──────────┬──────────┘
-                               │
-                 ┌─────────────┴─────────────┐
-                 │                           │
-            PostgreSQL                    Redis
+```text
+┌─────────────────────────────────────┐
+│           THE DEV SIDE              │
+│         Academic ERP                │
+└─────────────────┬───────────────────┘
+                  │
+    ┌─────────────┼─────────────┐
+    │             │             │
+ Academic    Operations   Governance
+ Modules      Modules     & Security
+    │             │             │
+    └─────────────┼─────────────┘
+                  │
+          ┌───────▼───────┐
+          │ Application   │
+          │     Core      │
+          └───────┬───────┘
+                  │
+        ┌─────────┴─────────┐
+        │                   │
+   PostgreSQL             Redis
 ```
 
 ### Why Modular Monolith?
 
-* **🧩 Modular** — Business domains remain logically separated.
-* **⚡ Performant** — Lower complexity than distributed services.
-* **🔐 Secure** — Centralized authentication and authorization.
-* **🛠️ Maintainable** — Easier testing, debugging, and deployment.
-* **📈 Future Ready** — Modules can evolve independently as the platform grows.
+- **🧩 Modular** — Business domains remain logically separated.
+- **⚡ Performant** — Lower complexity than distributed services.
+- **🔐 Secure** — Centralized authentication and authorization.
+- **🛠️ Maintainable** — Easier testing, debugging, and deployment.
+- **📈 Future Ready** — Modules can evolve independently as the platform grows.
 
 ---
 
 # 🔐 Core Features
 
 ### Role-Based Security
-
 Granular access control ensures users only access the features and information relevant to their role.
 
 ### Audit-First Design
-
 Critical system actions generate audit records to improve transparency and accountability.
 
 ### Analytics & Insights
-
 Institutional dashboards provide visibility into academic, operational, and financial performance.
 
 ### Integration Ready
-
 The architecture is designed to support future APIs and third-party integrations.
 
 ---
@@ -169,12 +248,12 @@ The architecture is designed to support future APIs and third-party integrations
 
 <div align="center">
 
-|        Technology       |        Purpose        |
-| :---------------------: | :-------------------: |
-|      🟢 **Node.js**     |  Application Runtime  |
-|    🐘 **PostgreSQL**    |    Primary Database   |
-|       🔴 **Redis**      | Caching & Performance |
-| 🧩 **Modular Monolith** |  System Architecture  |
+| Technology              | Purpose                |
+|:-----------------------:|:----------------------:|
+| 🟢 **Node.js**          | Application Runtime    |
+| 🐘 **PostgreSQL**       | Primary Database       |
+| 🔴 **Redis**            | Caching & Performance  |
+| 🧩 **Modular Monolith** | System Architecture    |
 
 </div>
 
@@ -184,24 +263,22 @@ The architecture is designed to support future APIs and third-party integrations
 
 ## Prerequisites
 
-Make sure the following are installed:
-
-* Node.js `v18+`
-* PostgreSQL `v14+`
-* Redis `v6+`
+- Node.js `v18+`
+- PostgreSQL `v14+`
+- Redis `v6+`
 
 ## Installation
 
 ### 1. Clone the repository
 
-```bash id="2fiyfo"
+```bash
 git clone https://github.com/your-org/the-dev-side.git
 cd the-dev-side
 ```
 
 ### 2. Configure environment variables
 
-```bash id="8erfzx"
+```bash
 cp .env.example .env
 ```
 
@@ -209,25 +286,25 @@ Update the required database, authentication, Redis, and application settings.
 
 ### 3. Install dependencies
 
-```bash id="ysueac"
+```bash
 npm install
 ```
 
 ### 4. Run database migrations
 
-```bash id="5sy2ac"
+```bash
 npm run db:migrate
 ```
 
 ### 5. Seed the database
 
-```bash id="33xgog"
+```bash
 npm run db:seed
 ```
 
 ### 6. Start the development server
 
-```bash id="phm9xy"
+```bash
 npm run dev
 ```
 
@@ -238,19 +315,17 @@ npm run dev
 The DEV Side aims to become a unified digital ecosystem for educational institutions.
 
 ### Today
-
-* Centralized Academic Management
-* Financial Operations
-* Campus Communication
-* Security & Audit Logging
+- Centralized Academic Management
+- Financial Operations
+- Campus Communication
+- Security & Audit Logging
 
 ### Tomorrow
-
-* 🤖 AI-Powered Insights
-* 📱 Mobile Applications
-* ☁️ Cloud Infrastructure
-* 📊 Predictive Analytics
-* 🔗 Third-Party Integrations
+- 🤖 AI-Powered Insights
+- 📱 Mobile Applications
+- ☁️ Cloud Infrastructure
+- 📊 Predictive Analytics
+- 🔗 Third-Party Integrations
 
 ---
 
@@ -286,7 +361,7 @@ See the [LICENSE](LICENSE) file for more information.
 
 **Where Ideas Go Live.**
 
-<br />
+<br/>
 
 Built with 💙 by **Cache Me If You Can**
 
