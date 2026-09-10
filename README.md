@@ -15,7 +15,7 @@
 
 ## 🚀 About Us
 
-**The Dev Side** is a student-led software development team focused on creating modern, functional, and scalable digital solutions.
+**The Dev Side** is a student-led software ERP focused on creating modern, functional, and scalable digital solutions.
 
 From academic systems and community platforms to enterprise applications and intelligent tools, we design and develop software that helps organizations **work smarter, operate better, and deliver more value.**
 
