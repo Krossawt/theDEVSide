@@ -8,10 +8,6 @@
 
 <br/>
 
-[![License](https://img.shields.io/badge/License-MIT-2563EB?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Architecture](https://img.shields.io/badge/Architecture-Modular%20Monolith-0EA5E9?style=for-the-badge)](#-architecture)
-[![Modules](https://img.shields.io/badge/Modules-24-1D4ED8?style=for-the-badge)](#-modules)
-
 <br/>
 
 <a href="#-getting-started"><strong>Get Started</strong></a>
