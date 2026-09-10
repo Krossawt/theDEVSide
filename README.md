@@ -38,3 +38,12 @@ Fee collection & finance, intelligent timetable generation, hostel & transport m
 Announcements, direct messaging, alumni networks, event management, extracurricular tracking, clubs, and parent-teacher collaboration tools.
 ### 🛡️ Administration & Governance
 Role-based access control, grievance handling, online admissions, discipline records, institutional analytics, and complete audit trails.
+
+---
+
+<div align="center">
+  
+<img src="Modules.png" />
+
+</div>
+
